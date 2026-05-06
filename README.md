@@ -17,3 +17,14 @@ Scripts are organized into two modules:
 
 ## Notes
 This repository contains analysis scripts used in the associated manuscript.
+
+## Input data
+
+This pipeline requires two HiChIP interaction files:
+
+- r1b_hichip.csv: RING1B HiChIP interaction pairs
+- k27ac_hichip.csv: H3K27ac HiChIP interaction pairs
+
+Each file must contain:
+- seqnames1, start1
+- seqnames2, start2
