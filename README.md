@@ -13,11 +13,7 @@ The workflow includes:
 
 The analyses were performed in R.
 
-Repository structure
-RING1B–H3K27ac HiChIP topology analysis.R
-RING1B–H3K27ac interaction directionality analysis.R
-Integration of HiChIP clusters with gene expression changes.R
-README.md
+Repository structure: RING1B–H3K27ac HiChIP topology analysis.R; RING1B–H3K27ac interaction directionality analysis.R; Integration of HiChIP clusters with gene expression changes.R; README.md
 
 Analysis workflow
 
