@@ -77,7 +77,4 @@ Notes
 * Intermediate CSV files generated from earlier steps are used as inputs for downstream analyses.
 * UMAP cluster labels may vary slightly between runs and should be manually verified before downstream biological interpretation.
 * Scripts were organized as independent analysis modules for clarity and reproducibility.
-
-Citation
-
-If you use this code or analysis framework, please cite the associated manuscript.
+* If you use this code or analysis framework, please cite the associated manuscript.
