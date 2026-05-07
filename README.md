@@ -14,14 +14,14 @@ The workflow includes:
 The analyses were performed in R.
 
 Repository structure
-├── RING1B–H3K27ac HiChIP topology analysis.R
-├── RING1B–H3K27ac interaction directionality analysis.R
-├── Integration of HiChIP clusters with gene expression changes.R
-└── README.md
+RING1B–H3K27ac HiChIP topology analysis.R
+RING1B–H3K27ac interaction directionality analysis.R
+Integration of HiChIP clusters with gene expression changes.R
+README.md
 
 Analysis workflow
 
-1. RING1B–H3K27ac HiChIP topology analysis.R
+RING1B–H3K27ac HiChIP topology analysis.R
 
 This script performs the core topology analysis of RING1B and H3K27ac HiChIP interaction networks.
 
@@ -35,7 +35,7 @@ Main steps include:
 6. Compute structural similarity metrics
 7. Perform PCA, UMAP, and K-means clustering
 
-2. RING1B–H3K27ac interaction directionality analysis.R
+RING1B–H3K27ac interaction directionality analysis.R
 
 This script evaluates directional consistency between overlapping RING1B and H3K27ac interaction clusters.
 
@@ -47,7 +47,7 @@ Main steps include:
 4. Assign cluster-level directionality categories
 5. Visualize cluster direction distributions
 
-3. Integration of HiChIP clusters with gene expression changes.R
+Integration of HiChIP clusters with gene expression changes.R
 
 This script integrates HiChIP interaction clusters with RNA-seq differential expression data.
 
